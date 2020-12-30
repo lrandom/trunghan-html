@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div class="wrapper">
+    <div class="col-1"></div>
+    <div class="col-2"></div>
+</div>
+
+<style>
+    .wrapper{
+        position: relative;
+        overflow: hidden;
+        width:968px;
+        border: 1px solid red;
+        margin: 0px auto;
+    }
+
+    .wrapper >div{
+        width:45%;
+        height: 500px;
+        background: red;
+    }
+
+    .wrapper .col-1{
+        float: left;
+    }
+
+    .wrapper .col-2{
+        float: right;
+    }
+</style>
+</body>
+</html>

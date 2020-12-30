@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+  <div class="wrapper">
+      <div class="header"></div>
+      <div class="navigation-menu"></div>
+      <div class="main-content">
+          <div class="col-1"></div>
+          <div class="col-2"></div>
+          <div class="col-3"></div>
+      </div>
+      <div class="footer"></div>
+  </div>
+
+  <style>
+      .wrapper{
+          width: 896px;
+          margin: 0px auto;
+          border: 1px solid red;
+      }
+
+      .wrapper > .header{
+          height: 60px;
+          background: red;
+      }
+
+      .wrapper > .navigation-menu{
+          height: 45px;
+          background: blue;
+          margin-top:10px;
+      }
+
+      .wrapper > .main-content{
+          margin-top: 10px;
+          height: 800px;
+          background: yellow;
+      }
+
+      .wrapper > .main-content .col-1,
+      .wrapper > .main-content .col-3{
+          width: 20%;
+          background: brown;
+          height: 100%;
+      }
+
+      .wrapper > .main-content .col-1{
+          float: left;
+      }
+
+      .wrapper > .main-content .col-3{
+          float: right;
+      }
+
+      .wrapper > .main-content .col-2{
+          width: 55%;
+          float: left;
+          background: black;
+          height: 100%;
+          margin-left: 2.5%;
+      }
+
+      .wrapper .footer{
+          margin-top: 10px;
+          height: 50px;
+          background: rebeccapurple;
+      }
+  </style>
+</body>
+</html>
