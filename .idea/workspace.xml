@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fb8b5b4-43a7-42b3-af5a-46bb30019126" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/session-2/absolute.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session-2/display.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session-2/float.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session-2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session-2/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session-2/position.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session-2/link_UI_bai1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609119917604</updated>
       <workItem from="1609119918686" duration="7316000" />
-      <workItem from="1609292304334" duration="4329000" />
+      <workItem from="1609292304334" duration="4932000" />
     </task>
     <servers />
   </component>
@@ -90,6 +85,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="233" y="178" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609301249095">
+      <screen x="0" y="23" width="1024" height="692" />
+    </state>
+    <state x="233" y="178" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1024.692@0.23.1024.692" timestamp="1609301249095" />
     <state x="21" y="23" key="SettingsEditor" timestamp="1609123081407">
       <screen x="0" y="23" width="1024" height="696" />
     </state>
