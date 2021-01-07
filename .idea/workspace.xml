@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fb8b5b4-43a7-42b3-af5a-46bb30019126" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/session-2/link_UI_bai1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session-3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session-3/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session-4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session-4/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +36,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -66,7 +70,9 @@
       <option name="presentableId" value="Default" />
       <updated>1609119917604</updated>
       <workItem from="1609119918686" duration="7316000" />
-      <workItem from="1609292304334" duration="4932000" />
+      <workItem from="1609292304334" duration="5395000" />
+      <workItem from="1609901860238" duration="2523000" />
+      <workItem from="1609982091467" duration="2709000" />
     </task>
     <servers />
   </component>
@@ -83,15 +89,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="178" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609301249095">
       <screen x="0" y="23" width="1024" height="692" />
     </state>
     <state x="233" y="178" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1024.692@0.23.1024.692" timestamp="1609301249095" />
-    <state x="21" y="23" key="SettingsEditor" timestamp="1609123081407">
-      <screen x="0" y="23" width="1024" height="696" />
+    <state x="39" y="23" key="SettingsEditor" timestamp="1609983127916">
+      <screen x="0" y="23" width="1920" height="1123" />
     </state>
     <state x="21" y="23" key="SettingsEditor/0.23.1024.696@0.23.1024.696" timestamp="1609123081407" />
+    <state x="39" y="23" key="SettingsEditor/1920.323.1440.877/0.23.1920.1123/-1920.143.1920.1057@0.23.1920.1123" timestamp="1609983127916" />
+    <state x="177" y="92" width="670" height="676" key="search.everywhere.popup" timestamp="1609901918050">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="177" y="92" width="670" height="676" key="search.everywhere.popup/0.0.1024.768@0.0.1024.768" timestamp="1609901918050" />
   </component>
 </project>

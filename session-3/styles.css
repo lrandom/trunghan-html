@@ -1,0 +1,23 @@
+.wrapper .menu img.logo{
+   float:left;
+}
+
+.wrapper .menu .inner-link{
+   float: right;
+}
+
+.wrapper .menu .inner-link li{
+   float: left;
+   list-style: none;
+   margin-left:10px
+}
+
+.wrapper .menu .inner-link li a{
+   text-decoration: none;
+   border-right: 1px solid #cdcdcd;
+   padding-right: 10px;
+}
+
+.wrapper .menu .inner-link li:last-child a{
+   border:none;
+}
