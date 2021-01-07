@@ -107,6 +107,72 @@
         }
         console.log(i);
     }//0,1,2,3,4,6,7,8,9
+
+
+    //hàm alert mở hộp thoại
+    const name = "LUAN";
+    const name2 = 'Luan';
+    const name3 = `Luan`;
+    //alert("Xin chao cac ban");
+/*    let c = confirm("Ban có chắc chắn");*/
+/*    if(c==true){
+        console.log("Đông ý");
+    }else{
+        console.log("0 Đồng ý");
+    }*/
+
+    //let content =  prompt("Vui long nhap");
+    //console.log(content);
+
+    let number2 = '1';
+    parseInt(number2);
+    parseFloat(number2);
+
+    let num1 = '1';
+    let num2 = 2;
+
+    console.log(num1+num2);//12
+
+    console.log(parseInt(num1)+num2);//3
+
+
+    function tinhTong(a,b){
+        let tong = a + b;
+        return tong;
+    }
+
+    let tong = tinhTong(10,20) ;//30
+    console.log(tong);
+
+    //ham nac danh
+    const tinhTong2 = function (a,b){
+        let tong = a + b;
+        return tong;
+    }
+
+    console.log(tinhTong2(1,2));
+
+    //su dung tu khoa new
+     const tinhTong3 = new Function("a","b","return a+b");
+      console.log(tinhTong3(10,20));
+
+
+    //callback function
+    function higher(func){
+        console.log("Hello CP17");
+        func();
+        console.log("Hello Cp17");
+    }
+
+    higher(function(){
+        console.log("I am callback");
+    })
+
+    higher(function(){
+        console.log("Hi");
+        console.log("hello");
+        console.log("Yes");
+    })
 </script>
 </body>
 </html>
