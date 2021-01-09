@@ -20,8 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fb8b5b4-43a7-42b3-af5a-46bb30019126" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/session-5/dom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session-5/dom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session-5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session-5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session-6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session-6/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session-6/validate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session-6/validate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/session-4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/session-4/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +59,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript&#10;HTML" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -69,7 +76,9 @@
       <workItem from="1609119918686" duration="7316000" />
       <workItem from="1609292304334" duration="5395000" />
       <workItem from="1609901860238" duration="2523000" />
-      <workItem from="1609982091467" duration="4804000" />
+      <workItem from="1609982091467" duration="5364000" />
+      <workItem from="1610070782779" duration="4197000" />
+      <workItem from="1610156701374" duration="5792000" />
     </task>
     <servers />
   </component>
@@ -93,9 +102,10 @@
       <screen x="0" y="23" width="1024" height="692" />
     </state>
     <state x="233" y="178" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1024.692@0.23.1024.692" timestamp="1609301249095" />
-    <state x="39" y="23" key="SettingsEditor" timestamp="1609983127916">
-      <screen x="0" y="23" width="1920" height="1123" />
+    <state x="21" y="23" key="SettingsEditor" timestamp="1610071089016">
+      <screen x="0" y="23" width="1024" height="692" />
     </state>
+    <state x="21" y="23" key="SettingsEditor/0.23.1024.692@0.23.1024.692" timestamp="1610071089016" />
     <state x="21" y="23" key="SettingsEditor/0.23.1024.696@0.23.1024.696" timestamp="1609123081407" />
     <state x="39" y="23" key="SettingsEditor/1920.323.1440.877/0.23.1920.1123/-1920.143.1920.1057@0.23.1920.1123" timestamp="1609983127916" />
     <state x="177" y="92" width="670" height="676" key="search.everywhere.popup" timestamp="1609901918050">
