@@ -25,3 +25,12 @@ function getValue() {
 function empty() {
     $('.empty').empty();
 }
+
+function append(){
+    $('ul').append('<li>B</li>');
+}
+
+function setSrc(){
+  const src = $('.img').attr('src');
+  alert(src);
+}
